@@ -1,0 +1,745 @@
+ISO,Country,Data source,Sector,Gas,Unit,Year,Value
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2020,650.05
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2020,536.02
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2020,247.55
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2020,246.12
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2020,138.21
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2020,135.46
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2020,132.36
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2020,131.11
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2020,131.05
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2020,126.42
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2020,107.18
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2020,33.92
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2020,27.18
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2020,6.85
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2020,3.72
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2020,3.7
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2020,2.75
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2020,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2020,1.19
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2020,0.97
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2020,0.83
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2020,0.49
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2020,0.43
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2020,0.24
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2019,697.34
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2019,575.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2019,247.51
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2019,246.12
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2019,136.02
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2019,133.3
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2019,148.33
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2019,154.24
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2019,147.01
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2019,149.41
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2019,115.21
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2019,36.69
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2019,30.16
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2019,7.01
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2019,3.78
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2019,3.49
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2019,2.72
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2019,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2019,1.15
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2019,1.05
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2019,0.84
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2019,0.49
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2019,0.43
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2019,0.24
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2018,654.45
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2018,537.18
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2018,241.24
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2018,239.87
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2018,133.84
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2018,131.14
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2018,113.12
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2018,155.45
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2018,112.07
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2018,150.99
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2018,110.59
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2018,37.14
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2018,30.83
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2018,6.69
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2018,3.47
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2018,3.27
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2018,2.69
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2018,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2018,1.11
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2018,0.99
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2018,0.66
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2018,0.39
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2018,0.42
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2018,0.25
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2017,598.14
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2017,486.43
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2017,218.72
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2017,217.85
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2017,131.65
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2017,128.99
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2017,99.1
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2017,139.0
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2017,98.14
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2017,135.04
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2017,105.63
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2017,35.06
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2017,28.97
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2017,6.08
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2017,3.03
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2017,3.06
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2017,2.66
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2017,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2017,0.78
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2017,0.93
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2017,0.61
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2017,0.36
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2017,0.42
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2017,0.09
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2016,565.25
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2016,455.27
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2016,207.25
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2016,206.45
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2016,129.47
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2016,126.83
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2016,86.28
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2016,131.98
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2016,85.38
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2016,128.1
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2016,103.93
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2016,34.58
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2016,28.71
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2016,6.05
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2016,2.97
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2016,2.84
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2016,2.63
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2016,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2016,0.72
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2016,0.91
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2016,0.57
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2016,0.33
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2016,0.41
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2016,0.08
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2015,573.01
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2015,464.49
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2015,196.26
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2015,195.51
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2015,127.28
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2015,124.68
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2015,102.2
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2015,135.56
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2015,101.27
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2015,132.03
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2015,102.67
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2015,30.21
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2015,24.56
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2015,5.84
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2015,2.68
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2015,2.63
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2015,2.6
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2015,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2015,0.67
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2015,0.85
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2015,0.59
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2015,0.34
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2015,0.41
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2015,0.08
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2014,574.8
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2014,459.11
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2014,194.49
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2014,193.76
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2014,124.76
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2014,122.2
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2014,90.42
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2014,140.35
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2014,89.55
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2014,136.59
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2014,109.49
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2014,31.12
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2014,25.53
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2014,6.2
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2014,2.9
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2014,2.58
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2014,2.56
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2014,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2014,0.65
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2014,0.86
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2014,0.55
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2014,0.32
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2014,0.4
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2014,0.08
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2013,541.02
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2013,423.62
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2013,168.81
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2013,168.2
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2013,120.06
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2013,117.54
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2013,80.18
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2013,139.75
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2013,79.38
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2013,136.12
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2013,111.38
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2013,30.33
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2013,24.78
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2013,6.02
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2013,2.78
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2013,2.53
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2013,2.52
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2013,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2013,0.54
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2013,0.84
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2013,0.5
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2013,0.3
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2013,0.4
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2013,0.07
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2012,574.98
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2012,458.5
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2012,169.41
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2012,168.79
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2012,115.36
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2012,112.88
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2012,120.47
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2012,132.99
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2012,119.42
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2012,129.62
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2012,110.35
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2012,28.79
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2012,23.29
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2012,6.13
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2012,2.58
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2012,2.49
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2012,2.48
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2012,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2012,0.55
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2012,0.79
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2012,0.66
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2012,0.38
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2012,0.4
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2012,0.08
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2011,569.12
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2011,454.7
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2011,176.67
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2011,176.03
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2011,121.81
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2011,119.38
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2011,137.4
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2011,111.35
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2011,136.21
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2011,108.5
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2011,108.48
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2011,26.53
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2011,21.1
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2011,5.94
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2011,2.17
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2011,2.44
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2011,2.43
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2011,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2011,0.56
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2011,0.69
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2011,0.75
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2011,0.44
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2011,0.38
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2011,0.08
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2010,496.93
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2010,396.08
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2010,149.51
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2010,149.0
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2010,128.27
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2010,125.87
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2010,127.32
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2010,91.53
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2010,126.17
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2010,89.11
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2010,95.35
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2010,24.82
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2010,19.46
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2010,5.5
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2010,1.81
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2010,2.39
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2010,2.39
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2010,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2010,0.44
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2010,0.61
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2010,0.72
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2010,0.42
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2010,0.36
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2010,0.07
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2009,465.51
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2009,371.64
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2009,153.78
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2009,153.25
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2009,134.72
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2009,132.37
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2009,101.21
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2009,83.89
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2009,100.25
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2009,81.68
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2009,88.6
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2009,24.58
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2009,19.44
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2009,5.27
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2009,1.65
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2009,2.19
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2009,2.35
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2009,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2009,0.46
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2009,0.56
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2009,0.61
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2009,0.36
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2009,0.33
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2009,0.07
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2008,442.93
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2008,355.6
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2008,153.06
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2008,152.51
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2008,141.17
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2008,138.86
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2008,92.5
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2008,74.03
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2008,91.57
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2008,72.07
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2008,82.11
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2008,25.45
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2008,20.54
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2008,5.22
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2008,1.45
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2008,1.99
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2008,2.31
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2008,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2008,0.48
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2008,0.51
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2008,0.59
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2008,0.34
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2008,0.31
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2008,0.07
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2007,447.0
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2007,360.39
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2007,139.15
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2007,138.66
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2007,147.63
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2007,145.36
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2007,112.29
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2007,69.65
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2007,111.2
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2007,67.81
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2007,81.43
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2007,24.26
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2007,19.57
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2007,5.19
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2007,1.37
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2007,1.79
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2007,2.27
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2007,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2007,0.42
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2007,0.47
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2007,0.69
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2007,0.4
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2007,0.29
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2007,0.07
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2006,431.12
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2006,345.42
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2006,130.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2006,130.17
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2006,154.08
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2006,151.86
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2006,105.65
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2006,68.03
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2006,104.64
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2006,66.29
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2006,80.7
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2006,23.52
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2006,19.05
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2006,5.0
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2006,1.3
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2006,1.59
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2006,2.23
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2006,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2006,0.38
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2006,0.43
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2006,0.64
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2006,0.37
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2006,0.27
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2006,0.07
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2005,400.49
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2005,323.62
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2005,124.52
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2005,124.11
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2005,160.53
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2005,158.35
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2005,82.17
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2005,71.65
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2005,81.3
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2005,69.84
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2005,71.93
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2005,22.77
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2005,18.53
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2005,4.94
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2005,1.36
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2005,1.39
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2005,2.18
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2005,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2005,0.35
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2005,0.45
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2005,0.55
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2005,0.32
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2005,0.24
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2005,0.06
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2004,395.11
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2004,322.19
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2004,120.04
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2004,119.66
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2004,166.99
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2004,164.85
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2004,81.15
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2004,72.6
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2004,80.26
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2004,70.83
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2004,68.03
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2004,23.12
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2004,19.05
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2004,4.9
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2004,1.35
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2004,1.24
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2004,2.14
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2004,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2004,0.32
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2004,0.43
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2004,0.56
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2004,0.33
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2004,0.22
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2004,0.06
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2003,386.85
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2003,316.07
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2003,121.85
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2003,121.47
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2003,173.44
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2003,171.34
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2003,75.61
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2003,70.96
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2003,74.67
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2003,69.27
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2003,65.94
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2003,21.7
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2003,17.81
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2003,4.85
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2003,1.3
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2003,1.08
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2003,2.1
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2003,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2003,0.32
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2003,0.39
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2003,0.59
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2003,0.35
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2003,0.2
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2003,0.06
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2002,356.25
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2002,287.49
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2002,109.58
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2002,109.24
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2002,179.9
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2002,177.84
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2002,59.84
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2002,69.62
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2002,58.98
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2002,67.99
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2002,64.06
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2002,21.86
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2002,18.14
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2002,4.69
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2002,1.26
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2002,0.93
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2002,2.06
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2002,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2002,0.28
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2002,0.37
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2002,0.54
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2002,0.32
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2002,0.17
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2002,0.05
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2001,351.23
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2001,283.6
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2001,100.32
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2001,100.01
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2001,186.35
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2001,184.33
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2001,63.1
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2001,68.34
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2001,62.21
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2001,66.75
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2001,62.99
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2001,22.0
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2001,18.46
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2001,4.65
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2001,1.23
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2001,0.78
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2001,2.02
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2001,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2001,0.26
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2001,0.36
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2001,0.56
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2001,0.34
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2001,0.15
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2001,0.05
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,2000,330.7
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,2000,264.19
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,2000,89.63
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,2000,89.36
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,2000,192.8
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,2000,190.83
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,2000,58.88
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,2000,64.19
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,2000,57.94
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,2000,62.69
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,2000,61.97
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,2000,19.82
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,2000,16.45
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,2000,4.54
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,2000,1.16
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,2000,0.63
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,2000,1.98
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,2000,2.61
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,2000,0.22
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,2000,0.34
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,2000,0.59
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,2000,0.35
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,2000,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,2000,0.04
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1999,332.47
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1999,265.4
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1999,95.85
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1999,95.59
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1999,189.17
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1999,187.22
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1999,62.17
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1999,60.2
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1999,61.24
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1999,58.78
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1999,63.14
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1999,14.82
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1999,14.08
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1999,3.93
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1999,1.09
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1999,0.62
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1999,1.96
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1999,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1999,0.2
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1999,0.32
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1999,0.58
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1999,0.35
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1999,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1999,0.05
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1998,314.64
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1998,249.63
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1998,98.83
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1998,98.59
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1998,185.55
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1998,183.61
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1998,48.5
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1998,60.62
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1998,47.63
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1998,59.2
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1998,61.19
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1998,13.81
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1998,13.08
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1998,3.83
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1998,1.09
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1998,0.6
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1998,1.94
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1998,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1998,0.19
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1998,0.32
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1998,0.55
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1998,0.32
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1998,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1998,0.05
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1997,310.36
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1997,245.15
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1997,88.99
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1997,88.77
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1997,181.92
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1997,180.0
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1997,51.77
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1997,62.07
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1997,50.9
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1997,60.65
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1997,61.43
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1997,16.73
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1997,16.01
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1997,3.79
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1997,1.1
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1997,0.59
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1997,1.91
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1997,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1997,0.17
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1997,0.32
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1997,0.54
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1997,0.32
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1997,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1997,0.05
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1996,285.63
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1996,222.45
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1996,77.71
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1996,77.52
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1996,178.29
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1996,176.39
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1996,47.73
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1996,55.87
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1996,46.88
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1996,54.6
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1996,59.61
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1996,14.98
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1996,14.27
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1996,3.58
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1996,0.99
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1996,0.58
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1996,1.89
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1996,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1996,0.14
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1996,0.28
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1996,0.53
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1996,0.32
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1996,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1996,0.04
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1995,271.0
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1995,210.37
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1995,74.44
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1995,74.27
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1995,174.66
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1995,172.78
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1995,47.58
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1995,50.41
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1995,46.74
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1995,49.26
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1995,57.19
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1995,14.0
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1995,13.31
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1995,3.45
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1995,0.9
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1995,0.57
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1995,1.87
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1995,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1995,0.13
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1995,0.26
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1995,0.53
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1995,0.31
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1995,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1995,0.04
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1994,245.62
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1994,186.64
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1994,64.05
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1994,63.9
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1994,171.52
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1994,169.7
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1994,38.64
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1994,46.41
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1994,37.84
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1994,45.35
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1994,55.68
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1994,13.26
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1994,12.54
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1994,3.3
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1994,0.82
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1994,0.59
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1994,1.82
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1994,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1994,0.11
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1994,0.24
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1994,0.5
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1994,0.3
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1994,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1994,0.03
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1993,230.2
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1993,174.32
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1993,62.85
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1993,62.7
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1993,168.18
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1993,166.41
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1993,32.96
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1993,41.43
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1993,32.19
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1993,40.49
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1993,52.7
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1993,11.51
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1993,10.77
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1993,3.18
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1993,0.73
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1993,0.62
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1993,1.76
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1993,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1993,0.12
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1993,0.21
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1993,0.48
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1993,0.29
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1993,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1993,0.04
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1992,215.71
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1992,161.64
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1992,56.31
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1992,56.17
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1992,164.85
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1992,163.14
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1992,29.89
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1992,38.81
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1992,29.15
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1992,37.91
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1992,50.99
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1992,10.54
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1992,9.78
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1992,3.08
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1992,0.69
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1992,0.64
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1992,1.71
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1992,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1992,0.11
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1992,0.2
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1992,0.46
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1992,0.28
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1992,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1992,0.03
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1991,205.98
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1991,153.23
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1991,54.22
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1991,54.09
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1991,161.52
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1991,159.87
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1991,28.38
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1991,36.7
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1991,27.66
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1991,35.85
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1991,49.76
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1991,9.88
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1991,9.09
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1991,2.99
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1991,0.66
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1991,0.67
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1991,1.65
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1991,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1991,0.11
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1991,0.19
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1991,0.45
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1991,0.27
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1991,0.13
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1991,0.03
+IDN,Indonesia,Climate Watch,Energy,All GHG,MtCO₂e,1990,188.86
+IDN,Indonesia,Climate Watch,Energy,CO2,MtCO₂e,1990,140.62
+IDN,Indonesia,Climate Watch,Electricity/Heat,All GHG,MtCO₂e,1990,47.87
+IDN,Indonesia,Climate Watch,Electricity/Heat,CO2,MtCO₂e,1990,47.75
+IDN,Indonesia,Climate Watch,Waste,All GHG,MtCO₂e,1990,158.2
+IDN,Indonesia,Climate Watch,Waste,CH4,MtCO₂e,1990,156.6
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,All GHG,MtCO₂e,1990,28.51
+IDN,Indonesia,Climate Watch,Transportation,All GHG,MtCO₂e,1990,32.98
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CO2,MtCO₂e,1990,27.81
+IDN,Indonesia,Climate Watch,Transportation,CO2,MtCO₂e,1990,32.2
+IDN,Indonesia,Climate Watch,Energy,CH4,MtCO₂e,1990,45.35
+IDN,Indonesia,Climate Watch,Industrial Processes,All GHG,MtCO₂e,1990,8.54
+IDN,Indonesia,Climate Watch,Industrial Processes,CO2,MtCO₂e,1990,7.72
+IDN,Indonesia,Climate Watch,Energy,N2O,MtCO₂e,1990,2.89
+IDN,Indonesia,Climate Watch,Transportation,N2O,MtCO₂e,1990,0.6
+IDN,Indonesia,Climate Watch,Industrial Processes,F-Gas,MtCO₂e,1990,0.69
+IDN,Indonesia,Climate Watch,Waste,N2O,MtCO₂e,1990,1.6
+IDN,Indonesia,Climate Watch,Industrial Processes,CH4,MtCO₂e,1990,0.0
+IDN,Indonesia,Climate Watch,Electricity/Heat,N2O,MtCO₂e,1990,0.09
+IDN,Indonesia,Climate Watch,Transportation,CH4,MtCO₂e,1990,0.18
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,N2O,MtCO₂e,1990,0.43
+IDN,Indonesia,Climate Watch,Manufacturing/Construction,CH4,MtCO₂e,1990,0.26
+IDN,Indonesia,Climate Watch,Industrial Processes,N2O,MtCO₂e,1990,0.12
+IDN,Indonesia,Climate Watch,Electricity/Heat,CH4,MtCO₂e,1990,0.03
